@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qiwen/Github/Cpp_primer/chap_1/Sales_item.h
+iostream
+-
+string
+-
+
+/home/qiwen/Github/Cpp_primer/chap_1/ex1_20.cpp
+iostream
+-
+Sales_item.h
+/home/qiwen/Github/Cpp_primer/chap_1/Sales_item.h
+

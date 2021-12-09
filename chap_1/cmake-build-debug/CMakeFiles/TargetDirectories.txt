@@ -1,0 +1,7 @@
+/home/qiwen/Github/Cpp_primer/chap_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/qiwen/Github/Cpp_primer/chap_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/qiwen/Github/Cpp_primer/chap_1/cmake-build-debug/CMakeFiles/ex1-20.dir
+/home/qiwen/Github/Cpp_primer/chap_1/cmake-build-debug/CMakeFiles/chap_1.dir
+/home/qiwen/Github/Cpp_primer/chap_1/cmake-build-debug/CMakeFiles/ex1-13.dir
+/home/qiwen/Github/Cpp_primer/chap_1/cmake-build-debug/CMakeFiles/ex1-9.dir
+/home/qiwen/Github/Cpp_primer/chap_1/cmake-build-debug/CMakeFiles/ex1-19.dir
